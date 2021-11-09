@@ -12,6 +12,10 @@ std::string Oxi::AboutMe(){
 
 <h6></h6>
 
+<h2> Projects <img src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif" width="50"> </h2>
+
+[![Tkinter Physics Sim](https://img.shields.io/badge/Tkinter_Physics_Sim-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/TkinterPhysicsSim)
+
 I often participate in [Ludum Dare](https://ldjam.com/)! Feel free to check out my most recent creation for the jam:
 
 [![Ludum Dare](https://img.shields.io/badge/Instability-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://ldjam.com/events/ludum-dare/49/instability)
