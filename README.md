@@ -6,15 +6,17 @@ std::string Oxi::AboutMe(){
 }
 ```
 
+<h3> Contact </h3>
+
 [![Twitter](https://img.shields.io/badge/oxi__dev0-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/oxi_dev0)
-[![Discord](https://img.shields.io/badge/Project_Temero-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/4XyvbKVgyW)
-[![YouTube](https://img.shields.io/badge/Straxis_Studios-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
+[![Discord](https://img.shields.io/badge/Straxis_Studios-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/4XyvbKVgyW)
 
 <h6></h6>
 
 <h2> Projects <img src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif" width="50"> </h2>
 
 [![Python Verlet Integration](https://img.shields.io/badge/Python_Verlet_Integration-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/TkinterPhysicsSim)
+[![Project Temero](https://img.shields.io/badge/Project_Temero-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
 
 <h2> Packages </h2>
 
