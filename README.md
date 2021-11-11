@@ -14,7 +14,7 @@ std::string Oxi::AboutMe(){
 
 <h2> Projects <img src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif" width="50"> </h2>
 
-[![Tkinter Physics Sim](https://img.shields.io/badge/Tkinter_Physics_Sim-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/TkinterPhysicsSim)
+[![Python Verlet Integration](https://img.shields.io/badge/Python_Verlet_Integration-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/TkinterPhysicsSim)
 
 <h2> Packages </h2>
 
