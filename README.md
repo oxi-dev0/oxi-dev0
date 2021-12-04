@@ -17,9 +17,6 @@ std::string Oxi::AboutMe(){
 
 [![Hexane](https://img.shields.io/badge/Hexane-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
 [![Verlet.py](https://img.shields.io/badge/Verlet.py-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/Verlet.py)
-
-<h2> Packages </h2>
-
 [![Vector2D.py](https://img.shields.io/badge/Vector2D.py-%2300599C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/vector2d.py/)
 
 <h2></h2>
