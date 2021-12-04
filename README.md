@@ -2,7 +2,7 @@
 
 ```c++
 std::string Oxi::AboutMe(){
-  return "Hi! Im a 15 year old full-stack developer who is currently working on the Open-World Game 'Project Temero'";
+  return "Hi! Im a 15 year old full-stack developer who is currently working on the Open-World Game 'Hexane'";
 }
 ```
 
@@ -15,7 +15,7 @@ std::string Oxi::AboutMe(){
 
 <h2> Projects <img src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif" width="50"> </h2>
 
-[![Project Temero](https://img.shields.io/badge/Project_Temero-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
+[![Hexane](https://img.shields.io/badge/Project_Temero-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
 [![Verlet.py](https://img.shields.io/badge/Verlet.py-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/Verlet.py)
 
 <h2> Packages </h2>
