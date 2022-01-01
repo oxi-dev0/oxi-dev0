@@ -9,7 +9,7 @@ std::string Oxi::AboutMe(){
 <h3> Contact </h3>
 
 [![Twitter](https://img.shields.io/badge/oxi__dev0-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/oxi_dev0)
-[![Discord](https://img.shields.io/badge/Straxis_Studios-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.gg/4XyvbKVgyW)
+[![Discord](https://img.shields.io/badge/Straxis_Studios-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/straxisstudios)
 
 <h6></h6>
 
