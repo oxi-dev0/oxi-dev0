@@ -17,8 +17,9 @@ std::string Oxi::AboutMe(){
 
 [![Hexane](https://img.shields.io/badge/Hexane-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
 [![Verlet.py](https://img.shields.io/badge/Verlet.py-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/Verlet.py)
-[![Vector2D.py](https://img.shields.io/badge/Vector2D.py-%2300599C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/vector2d.py/)
-[![HashMap.py](https://img.shields.io/badge/HashMap.py-%23430098?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/HashMap.py/)
+[![Vector2D.py](https://img.shields.io/badge/Vector2D.py-b0a821?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/vector2d.py/)
+[![HashMap.py](https://img.shields.io/badge/HashMap.py-%23239120?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/HashMap.py/)
+[![BP-2-CPP](https://img.shields.io/badge/BP&#8211;2&#8211;CPP-%2300599C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/UE4-BP2CPP)
 
 <h2></h2>
 
