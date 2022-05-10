@@ -16,6 +16,7 @@ std::string Oxi::AboutMe(){
 <h2> Projects <img src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif" width="50"> </h2>
 
 [![Hexane](https://img.shields.io/badge/Hexane-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
+[![NeuroSim](https://img.shields.io/badge/NeuroSim-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/oxi-dev0/NeuroSim)
 [![Verlet.py](https://img.shields.io/badge/Verlet.py-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/Verlet.py)
 [![Vector2D.py](https://img.shields.io/badge/Vector2D.py-6DA55F?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/vector2d.py/)
 [![HashMap.py](https://img.shields.io/badge/HashMap.py-%23404d59?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/HashMap.py/)
