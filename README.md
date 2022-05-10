@@ -21,7 +21,7 @@ std::string Oxi::AboutMe(){
 [![HashMap.py](https://img.shields.io/badge/HashMap.py-%23404d59?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/HashMap.py/)
 [![BP-2-CPP](https://img.shields.io/badge/BP&#8211;2&#8211;CPP-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/UE4-BP2CPP)
 
-I often participate in [Ludum Dare](https://ldjam.com/)! Feel free to check out my most recent creation for the jam:
+I often participate in [Ludum Dare](https://ldjam.com/)! Feel free to check out my most recent creation for the competition:
 
 [![Ludum Dare](https://img.shields.io/badge/Instability-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://ldjam.com/events/ludum-dare/49/instability)
 
