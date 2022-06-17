@@ -18,33 +18,16 @@ std::string Oxi::AboutMe(){
 [![Hexane](https://img.shields.io/badge/Hexane-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
 [![NeuroSim](https://img.shields.io/badge/NeuroSim-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/oxi-dev0/NeuroSim)
 [![Verlet.py](https://img.shields.io/badge/Verlet.py-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/Verlet.py)
-[![Vector2D.py](https://img.shields.io/badge/Vector2D.py-6DA55F?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/vector2d.py/)
-[![HashMap.py](https://img.shields.io/badge/HashMap.py-%23404d59?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/HashMap.py/)
 
 I often participate in [Ludum Dare](https://ldjam.com/)! Feel free to check out my most recent creation for the competition:
 
 [![Ludum Dare](https://img.shields.io/badge/Instability-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://ldjam.com/events/ludum-dare/49/instability)
 
-<h2> Experience <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif" width="50"></h2>
-<h4> Game Engines </h3>
+<h2> Libraries / Packages </h2>
 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<h4> Languages </h3>
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-<h4> Stacks </h4>
-
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+[![FPacker](https://img.shields.io/badge/FPacker-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/oxi-dev0/fpacker/)
+[![Vector2D.py](https://img.shields.io/badge/Vector2D.py-6DA55F?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/vector2d.py/)
+[![HashMap.py](https://img.shields.io/badge/HashMap.py-%23404d59?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/HashMap.py/)
 
 <h2> Stats <img src="https://media.giphy.com/media/ix8dIWbEovToc/giphy.gif" width="50"></h2>
 
