@@ -1,7 +1,7 @@
-<h2> Hi, I'm Oxi! <img src="https://media.giphy.com/media/mGbKvuoCNpcOWaTq9M/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Slyne! <img src="https://media.giphy.com/media/mGbKvuoCNpcOWaTq9M/giphy.gif" width="50"></h2>
 
 ```c++
-std::string Oxi::AboutMe(){
+std::string Slyne::AboutMe(){
   return "Hi! Im a 16 year old full-stack developer who specialises in physics and game development :)";
 }
 ```
