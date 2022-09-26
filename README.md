@@ -8,8 +8,8 @@ std::string Slyne::AboutMe(){
 
 <h3> Contact </h3>
 
-[![Twitter](https://img.shields.io/badge/oxi__dev0-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/oxi_dev0)
-[![Discord](https://img.shields.io/badge/Straxis_Studios-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/straxisstudios)
+[![Twitter](https://img.shields.io/badge/slyne_dev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/slyne_dev)
+[![Discord](https://img.shields.io/badge/Straxis_Studios-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yUfB764SUj)
 
 <h6></h6>
 
