@@ -17,7 +17,7 @@ std::string Slyne::AboutMe(){
 
 [![Straxis Studios](https://img.shields.io/badge/Straxis_Studios-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
 [![Texture Graph](https://img.shields.io/badge/Texture_Graph-%23E34F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/slyne-dev/Texture-Graph)
-[![NeuroSim](https://img.shields.io/badge/NeuroSim-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/slyne-dev/NeuroSim)
+[![NeuralSim](https://img.shields.io/badge/NeuroSim-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/slyne-dev/NeuralSim)
 [![Verlet.py](https://img.shields.io/badge/Verlet.py-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/slyne-dev/Verlet.py)
 
 I often participate in [Ludum Dare](https://ldjam.com/)! Feel free to check out my most recent creations for the competition:
