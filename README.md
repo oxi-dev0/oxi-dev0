@@ -33,4 +33,4 @@ I often participate in [Ludum Dare](https://ldjam.com/)! Feel free to check out 
 
 <h2> Stats <img src="https://media.giphy.com/media/ix8dIWbEovToc/giphy.gif" width="50"></h2>
 
-[![Oxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxi-dev0)](https://github.com/oxi-dev0/github-readme-stats)
+[Oxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxi-dev0)]
