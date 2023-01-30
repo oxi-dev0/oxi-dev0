@@ -2,7 +2,7 @@
 
 ```c++
 std::string Oxi::AboutMe(){
-  return "Hi! Im a 16 year old full-stack developer who is interested in Physics, Rendering Engines and Game Development :)";
+  return "Hi! Im a 16 year old full-stack developer who is interested in Physics, Rendering Engines and Game Development.";
 }
 ```
 
