@@ -29,7 +29,6 @@ I often participate in [Ludum Dare](https://ldjam.com/)! Feel free to check out 
 
 [![FPacker](https://img.shields.io/badge/FPacker-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/oxi-dev0/fpacker/)
 [![Vector2D.py](https://img.shields.io/badge/Vector2D.py-6DA55F?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/vector2d.py/)
-[![HashMap.py](https://img.shields.io/badge/HashMap.py-%23404d59?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/HashMap.py/)
 
 <h2> Stats <img src="https://media.giphy.com/media/ix8dIWbEovToc/giphy.gif" width="50"></h2>
 
