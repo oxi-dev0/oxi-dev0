@@ -1,4 +1,4 @@
-<h2> Hi, I'm Oxi! <img src="https://media.giphy.com/media/mGbKvuoCNpcOWaTq9M/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Oxi! <img src="https://i.giphy.com/media/mGbKvuoCNpcOWaTq9M/giphy.gif" width="50"></h2>
 
 ```c++
 std::string Oxi::AboutMe() {
@@ -13,7 +13,7 @@ std::string Oxi::AboutMe() {
 
 <h6></h6>
 
-<h2> Projects <img src="https://media.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif" width="50"> </h2>
+<h2> Projects <img src="https://i.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif" width="50"> </h2>
 
 [![Hexane](https://img.shields.io/badge/Hexane-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
 [![Texture Graph](https://img.shields.io/badge/Texture_Graph-%23E34F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/oxi-dev0/Texture-Graph)
@@ -30,7 +30,7 @@ I often participate in [Ludum Dare](https://ldjam.com/)! Feel free to check out 
 [![FPacker](https://img.shields.io/badge/FPacker-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/oxi-dev0/fpacker/)
 [![Vector2D.py](https://img.shields.io/badge/Vector2D.py-6DA55F?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/vector2d.py/)
 
-<h2> Experience <img src="https://media.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif" width="50"></h2>
+<h2> Experience <img src="https://i.giphy.com/media/fSGrpj2wJynDwgftc7/giphy.gif" width="50"></h2>
 <h4> Game Engines </h3>
 
 ![Godot](https://img.shields.io/badge/godot-%234588b9.svg?style=for-the-badge&logo=godotengine&logoColor=white)
@@ -57,7 +57,7 @@ I often participate in [Ludum Dare](https://ldjam.com/)! Feel free to check out 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=white)
 
-<h2> Stats <img src="https://media.giphy.com/media/ix8dIWbEovToc/giphy.gif" width="50"></h2>
+<h2> Stats <img src="https://i.giphy.com/media/ix8dIWbEovToc/giphy.gif" width="50"></h2>
 
 [![Oxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxi-dev0)](_blank)
 
