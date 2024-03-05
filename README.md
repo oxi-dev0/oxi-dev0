@@ -2,20 +2,14 @@
 
 ```c++
 std::string Oxi::AboutMe() {
-  return "Hi! Im a 17 year old full-stack developer who is interested in rendering, software development and game development.";
+  return "Hi! Im a 17 year old full-stack developer who is interested in technical art, software development and physics.";
 }
 ```
-
-<h3> Contact </h3>
-
-[![Twitter](https://img.shields.io/badge/slyne_dev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/slyne_dev)
-[![Discord](https://img.shields.io/badge/Straxis_Studios-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yUfB764SUj)
 
 <h6></h6>
 
 <h2> Projects <img src="https://i.giphy.com/media/eLv7gJpxqiQtbNNQUe/giphy.gif" width="50"> </h2>
 
-[![Hexane](https://img.shields.io/badge/Hexane-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/StraxisStudios)
 [![Texture Graph](https://img.shields.io/badge/Texture_Graph-%23E34F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/oxi-dev0/Texture-Graph)
 [![NeuralSim](https://img.shields.io/badge/NeuralSim-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/oxi-dev0/NeuralSim)
 [![Verlet.py](https://img.shields.io/badge/Verlet.py-%23E34F26?style=for-the-badge&logo=python&logoColor=white)](https://github.com/oxi-dev0/Verlet.py)
